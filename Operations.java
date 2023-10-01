@@ -8,6 +8,8 @@ public class Operations {
         sub=a-b;
         mul=a*b;
         div=a/b;
+        System.out.println("silect one option from following \n 1) Addition 2)substraction 3)multiplication 4) Division  ");
+       
         System.out.println("Addition is \t"+sum);
         System.out.println("substraction is \t"+sub);
         System.out.println("multiplication is \t"+mul);
